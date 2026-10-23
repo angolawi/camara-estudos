@@ -6,9 +6,12 @@ dist/
 .system_generated/
 .gemini/
 
-# IGNORAR OS 2GB DE PDFS LOCAIS NO REPOSITÓRIO (Usaremos o Google Drive no GitHub Pages)
-*.pdf
+# IGNORAR OS 2GB DE PDFS LOCAIS BRUTOS (Para manter o repositório leve)
 Câmara_dos_Deputados_*
 Monitoria_*
 plano_tatico_texto.txt
 .download_state.json
+
+# PERMITIR QUE A PASTA PÚBLICA DE MATERIAIS SEJA VERSIONADA NO REPOSITÓRIO
+!plataforma-estudos/public/materiais/
+!plataforma-estudos/public/materiais/**
