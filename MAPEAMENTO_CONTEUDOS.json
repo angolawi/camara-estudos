@@ -1,0 +1,1831 @@
+{
+  "concurso": "Câmara dos Deputados (Analista Legislativo - Registro e Redação)",
+  "total_disciplinas": 13,
+  "total_aulas": 140,
+  "disciplinas": [
+    {
+      "id": 1,
+      "disciplina": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)",
+      "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)",
+      "total_aulas": 3,
+      "aulas": [
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Fundamentos de Linguística e Semiologia. Linguagem, língua e fala. Signo linguístico: significante, significado, significação, arbitrariedade, motivação e linearidade. Referente, referência, representação e sentido.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Teoria da enunciação e a produção do texto escrito: enunciação e enunciado. Texto e discurso;",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Conhecimentos_Específicos_(Parte_de_Fundamentos_da_Linguística)/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Intertextualidade e polifonia. Gêneros do discurso.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "disciplina": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção",
+      "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção",
+      "total_aulas": 9,
+      "aulas": [
+        {
+          "aula": "Aula_00_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_00_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_00_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Análise do edital. Dicas práticas para a Discursiva.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01_Profª_Patrícia_Manzato",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_01_Profª_Patrícia_Manzato",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_01_Profª_Patrícia_Manzato/Assuntos_dessa_aula.txt",
+          "assuntos": "Aspectos textuais: coesão e coerência.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Profª_Patrícia_Manzato_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Profª_Patrícia_Manzato_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02_Profª_Patrícia_Manzato",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_02_Profª_Patrícia_Manzato",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_02_Profª_Patrícia_Manzato/Assuntos_dessa_aula.txt",
+          "assuntos": "Questão discursiva: planejamento e organização do texto.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Profª_Patrícia_Manzato_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03_Profª_Patrícia_Manzato",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_03_Profª_Patrícia_Manzato",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_03_Profª_Patrícia_Manzato/Assuntos_dessa_aula.txt",
+          "assuntos": "Revisão de Pronunciamento: teoria e prática.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Profª_Patrícia_Manzato_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_04_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_04_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Problemas de Língua Portuguesa.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_05_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_05_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Folha de Resposta Padrão.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_06_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_06_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Primeira Rodada de Análise de Textos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_07_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_07_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Segunda Rodada de Análise de Textos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_08_Profª_Patrícia_Manzato_(Somente_em_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Discursiva_Sem_Correção/Aula_08_Profª_Patrícia_Manzato_(Somente_em_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Terceira Rodada de Análise de Textos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Profª_Patrícia_Manzato_(Somente_em_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "disciplina": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados",
+      "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados",
+      "total_aulas": 14,
+      "aulas": [
+        {
+          "aula": "Aula_00_(SEDE_SESSÕES_LEGISLATIVAS_PREPARATÓRIAS_E_MESA)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_00_(SEDE_SESSÕES_LEGISLATIVAS_PREPARATÓRIAS_E_MESA)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_00_(SEDE_SESSÕES_LEGISLATIVAS_PREPARATÓRIAS_E_MESA)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO I - Disposições Preliminares (art. 1º ao 8º) e Título II - Dos Órgãos da Câmara (art. 14 a 19-A)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_(SEDE_SESSÕES_LEGISLATIVAS_PREPARATÓRIAS_E_MESA)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_(SEDE_SESSÕES_LEGISLATIVAS_PREPARATÓRIAS_E_MESA)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01_(LÍDERES_COLÉGIO_DE_LÍDERES_BLOCOS_E_DEMAIS_ÓRGÃOS)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_01_(LÍDERES_COLÉGIO_DE_LÍDERES_BLOCOS_E_DEMAIS_ÓRGÃOS)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_01_(LÍDERES_COLÉGIO_DE_LÍDERES_BLOCOS_E_DEMAIS_ÓRGÃOS)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO I - LÍDERES, COLÉGIO DE LÍDERES, BLOCOS (art. 9º ao 13º) e Título II - Dos Órgãos da Câmara (art. 20 a 21-U)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_(LÍDERES_COLÉGIO_DE_LÍDERES_BLOCOS_E_DEMAIS_ÓRGÃOS)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_(LÍDERES_COLÉGIO_DE_LÍDERES_BLOCOS_E_DEMAIS_ÓRGÃOS)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02_(COMISSÕES_PARTE_1)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_02_(COMISSÕES_PARTE_1)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_02_(COMISSÕES_PARTE_1)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO II",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_(COMISSÕES_PARTE_1)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_(COMISSÕES_PARTE_1)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03_(COMISSÕES_PARTE_2)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_03_(COMISSÕES_PARTE_2)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_03_(COMISSÕES_PARTE_2)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO II",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_(COMISSÕES_PARTE_2)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_(COMISSÕES_PARTE_2)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04_(SESSÕES)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_04_(SESSÕES)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_04_(SESSÕES)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO III",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_(SESSÕES)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_04_(SESSÕES)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05_(PROPOSIÇÕES)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_05_(PROPOSIÇÕES)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_05_(PROPOSIÇÕES)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO IV",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_(PROPOSIÇÕES)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_(PROPOSIÇÕES)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(TRAMITAÇÃO)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_06_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(TRAMITAÇÃO)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_06_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(TRAMITAÇÃO)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO V",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(TRAMITAÇÃO)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(TRAMITAÇÃO)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(DISCUSSÃO_ATÉ_AUTÓGRAFOS)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_07_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(DISCUSSÃO_ATÉ_AUTÓGRAFOS)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_07_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(DISCUSSÃO_ATÉ_AUTÓGRAFOS)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO V",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(DISCUSSÃO_ATÉ_AUTÓGRAFOS)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_(APRECIAÇÃO_DAS_PROPOSIÇÕES_(DISCUSSÃO_ATÉ_AUTÓGRAFOS)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08_(MATÉRIAS_SUJEITAS_À_DISPOSIÇÕES_ESPECIAIS)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_08_(MATÉRIAS_SUJEITAS_À_DISPOSIÇÕES_ESPECIAIS)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_08_(MATÉRIAS_SUJEITAS_À_DISPOSIÇÕES_ESPECIAIS)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO VI",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_(MATÉRIAS_SUJEITAS_À_DISPOSIÇÕES_ESPECIAIS)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_(MATÉRIAS_SUJEITAS_À_DISPOSIÇÕES_ESPECIAIS)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09_(PARTE_FINAL)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_09_(PARTE_FINAL)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_09_(PARTE_FINAL)/Assuntos_dessa_aula.txt",
+          "assuntos": "RICD; TÍTULO VII a X",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_(PARTE_FINAL)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_(PARTE_FINAL)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10_(REGIMENTO_COMUM_PARTE_1)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_10_(REGIMENTO_COMUM_PARTE_1)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_10_(REGIMENTO_COMUM_PARTE_1)/Assuntos_dessa_aula.txt",
+          "assuntos": "RCCN: ARTIGOS 1 a 21",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_(REGIMENTO_COMUM_PARTE_1)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_(REGIMENTO_COMUM_PARTE_1)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11_(REGIMENTO_COMUM_PARTE_2)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_11_(REGIMENTO_COMUM_PARTE_2)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_11_(REGIMENTO_COMUM_PARTE_2)/Assuntos_dessa_aula.txt",
+          "assuntos": "RCCN: ARTIGOS 22 a 71 e 134 a 140",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_(REGIMENTO_COMUM_PARTE_2)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12_(REGIMENTO_COMUM_PARTE_3)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_12_(REGIMENTO_COMUM_PARTE_3)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_12_(REGIMENTO_COMUM_PARTE_3)/Assuntos_dessa_aula.txt",
+          "assuntos": "RCCN: DEMAIS DISPOSIÇÕES",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_(REGIMENTO_COMUM_PARTE_3)_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_13_(RCCN_RESOLUÇÕES_390_E_12002)",
+          "caminho_relativo": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_13_(RCCN_RESOLUÇÕES_390_E_12002)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Analista_Legislativo_Registro_e_Redação)_Regimento_Interno_+_Regimento_Comum_da_Câmara_dos_Deputados/Aula_13_(RCCN_RESOLUÇÕES_390_E_12002)/Assuntos_dessa_aula.txt",
+          "assuntos": "RCCN - RESOLUÇÃO 3/90 (COMISSÃO REPRESENTATIVA) e RESOLUÇÃO 1/2002 (MEDIDAS PROVISÓRIAS)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_13_(RCCN_RESOLUÇÕES_390_E_12002)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_13_(RCCN_RESOLUÇÕES_390_E_12002)_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "disciplina": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico",
+      "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico",
+      "total_aulas": 8,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "Explicações sobre os Bizus Estratégicos",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Língua Inglesa",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Língua Portuguesa",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Direito Constitucional",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Direito Administrativo",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Informática e Dados",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Raciocínio Lógico",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_(Diversos_Cargos)_Bizu_Estratégico/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Bizu Estratégico de Estatística",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "disciplina": "Câmara_dos_Deputados_Direito_Administrativo",
+      "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo",
+      "total_aulas": 20,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "Princípios",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_00_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "1. Conceitos. Estado. Governo. Administração Pública. Reformas administrativas.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "2 Organização da Administração. A Administração na Constituição de 1988.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_02_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "2 Organização da Administração (parte 2)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Entidades paraestatais e o Terceiro Setor.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_04_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_04_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_04_Livro_Eletronico_versão_original.pdf",
+            "Aula_04_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "3 Poderes e Deveres Administrativos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_05_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Aula 6 4 Atos Administrativos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_06_Livro_Eletronico_versão_original.pdf",
+            "Aula_06_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "7 Licitações: conceito, princípios, contratação direta, modalidade e tipos. (Lei nº 14.133/2021).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_07_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_07_Livro_Eletronico_versão_original.pdf",
+            "Aula_07_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_08",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_08/Assuntos_dessa_aula.txt",
+          "assuntos": "7 Licitações (Lei nº 14.133/2021) – parte 2",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_08_Livro_Eletronico_versão_original.pdf",
+            "Aula_08_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_09",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_09/Assuntos_dessa_aula.txt",
+          "assuntos": "Contratos administrativos. Fracionamento de despesa. Fiscalização contratual.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_09_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_09_Livro_Eletronico_versão_original.pdf",
+            "Aula_09_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_10",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_10/Assuntos_dessa_aula.txt",
+          "assuntos": "8 Controle da Administração.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_10_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_10_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_10_Livro_Eletronico_versão_original.pdf",
+            "Aula_10_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_11",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_11/Assuntos_dessa_aula.txt",
+          "assuntos": "9 Responsabilidade Civil do Estado.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_11_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_11_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_11_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_11_Livro_Eletronico_versão_original.pdf",
+            "Aula_11_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_12",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_12/Assuntos_dessa_aula.txt",
+          "assuntos": "5 Agentes Públicos: disposições constitucionais.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_12_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_12_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_13",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_13",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_13/Assuntos_dessa_aula.txt",
+          "assuntos": "Lei nº 8.112/1990 – parte 1",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_13_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_13_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_13_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_13_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_13_Livro_Eletronico_versão_original.pdf",
+            "Aula_13_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_14",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_14",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_14/Assuntos_dessa_aula.txt",
+          "assuntos": "Lei nº 8.112/1990 – parte 2",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_14_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_14_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_14_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_14_Livro_Eletronico_versão_original.pdf",
+            "Aula_14_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_15",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_15",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_15/Assuntos_dessa_aula.txt",
+          "assuntos": "Lei nº 8.112/1990 – parte 3",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_15_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_15_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_15_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_15_Livro_Eletronico_versão_original.pdf",
+            "Aula_15_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_16",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_16",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_16/Assuntos_dessa_aula.txt",
+          "assuntos": "6 Processo Administrativo Federal. Lei nº 9.784/1999.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_16_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_16_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_16_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_16_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_16_Livro_Eletronico_versão_original.pdf",
+            "Aula_16_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_17",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_17",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_17/Assuntos_dessa_aula.txt",
+          "assuntos": "10 Improbidade Administrativa (Lei nº 8.429/1992).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_17_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_17_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_17_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_18",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_18",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_18/Assuntos_dessa_aula.txt",
+          "assuntos": "11 Lei de Acesso à Informação (Lei nº 12.527/2011).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_18_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_18_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_18_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_18_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_19",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Administrativo/Aula_19",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Administrativo/Aula_19/Assuntos_dessa_aula.txt",
+          "assuntos": "12 Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_19_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_19_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_19_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "disciplina": "Câmara_dos_Deputados_Direito_Constitucional",
+      "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional",
+      "total_aulas": 16,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "1 Constituição de 1988: conceito, contexto histórico, características, estrutura do texto. 2 Poder constituinte: conceito, espécies, limites.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_00_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_00_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "3 Princípios Fundamentais. Teoria Geral dos Direitos Fundamentais.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_01_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos - Parte I.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_02_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_02_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos - Parte II.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos sociais.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_04_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_04_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_04_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_04_Livro_Eletronico_versão_original.pdf",
+            "Aula_04_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Nacionalidade.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_05_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos políticos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_06_Livro_Eletronico_versão_original.pdf",
+            "Aula_06_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Partidos políticos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_07_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_07_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_07_Livro_Eletronico_versão_original.pdf",
+            "Aula_07_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_08",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_08/Assuntos_dessa_aula.txt",
+          "assuntos": "4. Organização do Estado: organização político-administrativa, União, Estados, Municípios, Distrito Federal e Territórios. Intervenção Federal.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_08_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_08_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_08_Livro_Eletronico_versão_original.pdf",
+            "Aula_08_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_09",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_09/Assuntos_dessa_aula.txt",
+          "assuntos": "5 Administração Pública: disposições gerais, servidores públicos civis e militares.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_09_Livro_Eletronico_versão_original.pdf",
+            "Aula_09_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_10",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_10/Assuntos_dessa_aula.txt",
+          "assuntos": "6. Poder Legislativo. O Congresso Nacional e suas Casas: atribuições, competências, reuniões e comissões. Regime Jurídico-constitucional dos Parlamentares. Fiscalização Contábil, Financeira e Orçamentária.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_10_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_10_Livro_Eletronico_versão_original.pdf",
+            "Aula_10_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_11",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_11/Assuntos_dessa_aula.txt",
+          "assuntos": "Processo Legislativo.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_11_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_11_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_11_Livro_Eletronico_versão_original.pdf",
+            "Aula_11_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_12",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_12/Assuntos_dessa_aula.txt",
+          "assuntos": "7 Poder Executivo: atribuições e responsabilidades do Presidente da República. Atribuições dos Ministros de Estado.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_12_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_12_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_12_Livro_Eletronico_versão_original.pdf",
+            "Aula_12_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_13",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_13",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_13/Assuntos_dessa_aula.txt",
+          "assuntos": "8 Poder Judiciário: órgãos, composição, garantias e competências.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_13_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_13_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_13_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_13_Livro_Eletronico_versão_original.pdf",
+            "Aula_13_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_14",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_14",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_14/Assuntos_dessa_aula.txt",
+          "assuntos": "Funções Essenciais à Justiça.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_14_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_14_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_14_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_14_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_14_Livro_Eletronico_versão_original.pdf",
+            "Aula_14_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_15",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional/Aula_15",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional/Aula_15/Assuntos_dessa_aula.txt",
+          "assuntos": "9 Defesa do Estado e das Instituições Democráticas.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_15_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_15_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_15_Livro_Eletronico_versão_original.pdf",
+            "Aula_15_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "disciplina": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)",
+      "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)",
+      "total_aulas": 13,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "Teoria da Constituição - Constituição: conceito, classificações, normas constitucionais",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Poder Constituinte - Poder constituinte originário, derivado e suas espécies",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Princípios Fundamentais - Título I da CF. Teoria dos princípios. Fundamentos, objetivos fundamentais, princípios das relações internacionais, separação de poderes, forma de governo, sistema de governo, forma de estado",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Teoria Geral dos Direitos Fundamentais - Teoria dos direitos fundamentais: conceito, fundamentos, características, titularidade, aplicação, tratados internacionais de direitos humanos, fontes dos direitos fundamentais, restrições",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos Individuais e coletivos - Art. 5º da CF, parte 1: direitos à vida, liberdade, igualdade, segurança, propriedade e privacidade",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Garantias individuais e coletivas - Garantias processuais gerais, garantias penais, remédios constitucionais",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos sociais e de nacionalidade - Direitos sociais e direitos de nacionalidade",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Direitos Políticos e Partidos Políticos - Direitos Políticos posivitos e negativos, ativos e passivos. Normas constitucionais sobre partidos políticos",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_08",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_08/Assuntos_dessa_aula.txt",
+          "assuntos": "Organização do Estado (parte geral) - Organização político-administrativa. Entes federativos. Bens Públicos. Intervenção",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_09",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_09/Assuntos_dessa_aula.txt",
+          "assuntos": "Repartição de competências federativas - Repartição de competências federativas: teoria e casuística",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_10",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_10/Assuntos_dessa_aula.txt",
+          "assuntos": "Poder Legislativo (parte geral) - Poder Legislativo na CF. Congresso Nacional e suas casas. Estatuto dos parlamentares. CPIs. Fiscalização contábil e financeira.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_11",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_11/Assuntos_dessa_aula.txt",
+          "assuntos": "Processo Legislativo - Processo constitucional de formação das leis (arts. 59 a 69 da CF)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_11_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12",
+          "caminho_relativo": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_12",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Direito_Constitucional_(Prof_João_Trindade)/Aula_12/Assuntos_dessa_aula.txt",
+          "assuntos": "Poder Executivo - Poder Executivo na CF.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "disciplina": "Câmara_dos_Deputados_Informática_e_Dados",
+      "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados",
+      "total_aulas": 14,
+      "aulas": [
+        {
+          "aula": "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Redes de Computadores: conceitos básicos. (Parte 1)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Redes de Computadores: conceitos básicos. (Parte 2)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Conceitos de Internet e Intranet.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Conceitos gerais de segurança da informação: proteção contra vírus e outras formas de softwares ou ações intrusivas. (Parte 1)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Conceitos gerais de segurança da informação: proteção contra vírus e outras formas de softwares ou ações intrusivas. (Parte 2)",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_04_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "MSOffice M365 (Excel).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "MSOffice M365 (Word).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_06_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "MSOffice M365 (Power Point).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_07_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)/Assuntos_dessa_aula.txt",
+          "assuntos": "MSOffice M365 (One Drive, Sharepoint e Teams).",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_original.pdf",
+            "Aula_08_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Noções do Sistema Operacional Windows 10.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_09_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Noções do Sistema Operacional Windows 11.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_10_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)/Assuntos_dessa_aula.txt",
+          "assuntos": "Conceitos básicos de hardware e software: funcionamento do computador; conhecimentos dos componentes principais.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_original.pdf",
+            "Aula_11_(Prof_Diego_Carvalho_e_Renato_da_Costa)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)/Assuntos_dessa_aula.txt",
+          "assuntos": "Dados: conceitos, atributos, métricas, transformação de dados.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_original.pdf",
+            "Aula_12_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "caminho_relativo": "Câmara_dos_Deputados_Informática_e_Dados/Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Informática_e_Dados/Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)/Assuntos_dessa_aula.txt",
+          "assuntos": "Ciência de Dados: governança da informação",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_original.pdf",
+            "Aula_13_(Prof_Diego_Carvalho_e_Emannuelle_Gouveia)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "disciplina": "Câmara_dos_Deputados_Língua_Inglesa",
+      "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa",
+      "total_aulas": 8,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "Interpretação de textos, Cognatos e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Substantivos, Artigos, Pronomes, Preposições e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Adjetivos, Advérbios e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Verbos Frasais, Auxiliares e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Tempos Verbais (Parte 1) e Resolução de provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_04_Livro_Eletronico_versão_original.pdf",
+            "Aula_04_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Tempos Verbais (Parte 2) e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Expressões Idiomáticas e Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_06_Livro_Eletronico_versão_original.pdf",
+            "Aula_06_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Inglesa/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Inglesa/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Resolução de Provas",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "disciplina": "Câmara_dos_Deputados_Língua_Portuguesa",
+      "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa",
+      "total_aulas": 15,
+      "aulas": [
+        {
+          "aula": "Aula_00_(Exclusivamente_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_00_(Exclusivamente_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_00_(Exclusivamente_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Nivelamento",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_(Exclusivamente_PDF)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_(Exclusivamente_PDF)_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_(Exclusivamente_PDF)_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Ortografia e acentuação gráfica.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Classes de palavras: os aspectos morfológicos, sintáticos, semânticos e textuais de substantivos, adjetivos, pronomes, artigos, numerais, advérbios e interjeições. Colocação pronominal.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_02_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_02_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Classes de palavras: preposições e conjunções.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Classes de palavras: verbos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Estrutura e formação de palavras. Formas de abreviação.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_05_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Organização sintática das frases: termos e orações. Ordem direta e inversa.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Tipologia da frase portuguesa. Pontuação e sinais gráficos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_07_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_07_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_07_Livro_Eletronico_versão_original.pdf",
+            "Aula_07_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_08",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_08/Assuntos_dessa_aula.txt",
+          "assuntos": "Concordância verbal e nominal.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_08_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_08_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_08_Livro_Eletronico_versão_original.pdf",
+            "Aula_08_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_09",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_09/Assuntos_dessa_aula.txt",
+          "assuntos": "Regência verbal e nominal. A Crase",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_09_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_09_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_09_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_09_Livro_Eletronico_versão_original.pdf",
+            "Aula_09_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_10",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_10",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_10/Assuntos_dessa_aula.txt",
+          "assuntos": "Marcas de textualidade: coesão, coerência. Estrutura da frase portuguesa: operações de deslocamento, substituição, modificação e correção. Problemas estruturais das frases.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_10_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_10_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_10_Livro_Eletronico_versão_original.pdf",
+            "Aula_10_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_11",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_11",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_11/Assuntos_dessa_aula.txt",
+          "assuntos": "Semântica: sentido próprio e figurado; antônimos, sinônimos, parônimos e hiperônimos. Polissemia e ambiguidade",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_11_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_11_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_11_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_11_Livro_Eletronico_versão_original.pdf",
+            "Aula_11_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_12",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_12",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_12/Assuntos_dessa_aula.txt",
+          "assuntos": "Interpretação e compreensão de texto. Organização estrutural dos textos. Intertextualidade. Modos de organização discursiva: descrição, narração, exposição, argumentação e injunção; características específicas de cada modo. Tipos textuais. Tipos de discurso. Funções da linguagem. Modalizadores.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_12_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_12_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_12_Livro_Eletronico_versão_original.pdf",
+            "Aula_12_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_13",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_13",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_13/Assuntos_dessa_aula.txt",
+          "assuntos": "Norma culta. Registros de linguagem.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_13_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_13_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_13_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_13_Livro_Eletronico_versão_original.pdf",
+            "Aula_13_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_14_(Exclusivamente_PDF)",
+          "caminho_relativo": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_14_(Exclusivamente_PDF)",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Língua_Portuguesa/Aula_14_(Exclusivamente_PDF)/Assuntos_dessa_aula.txt",
+          "assuntos": "Aula extra",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_14_(Exclusivamente_PDF)_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_14_(Exclusivamente_PDF)_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "disciplina": "Câmara_dos_Deputados_Monitoria",
+      "caminho_relativo": "Câmara_dos_Deputados_Monitoria",
+      "total_aulas": 5,
+      "aulas": [
+        {
+          "aula": "Aula_00_Prof_Bruno_Bezerra",
+          "caminho_relativo": "Câmara_dos_Deputados_Monitoria/Aula_00_Prof_Bruno_Bezerra",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Monitoria/Aula_00_Prof_Bruno_Bezerra/Assuntos_dessa_aula.txt",
+          "assuntos": "Como montar um Plano de Estudos Pré-Edital para a Câmara dos Deputados.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Prof_Bruno_Bezerra_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Prof_Bruno_Bezerra_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01_Prof_Bruno_Bezerra",
+          "caminho_relativo": "Câmara_dos_Deputados_Monitoria/Aula_01_Prof_Bruno_Bezerra",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Monitoria/Aula_01_Prof_Bruno_Bezerra/Assuntos_dessa_aula.txt",
+          "assuntos": "Como resolver questões da forma certa.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Prof_Bruno_Bezerra_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Prof_Bruno_Bezerra_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02_Prof_Bruno_Bezerra",
+          "caminho_relativo": "Câmara_dos_Deputados_Monitoria/Aula_02_Prof_Bruno_Bezerra",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Monitoria/Aula_02_Prof_Bruno_Bezerra/Assuntos_dessa_aula.txt",
+          "assuntos": "Como fazer revisões rápidas e eficientes.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Prof_Bruno_Bezerra_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_02_Prof_Bruno_Bezerra_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03_Prof_Bruno_Bezerra",
+          "caminho_relativo": "Câmara_dos_Deputados_Monitoria/Aula_03_Prof_Bruno_Bezerra",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Monitoria/Aula_03_Prof_Bruno_Bezerra/Assuntos_dessa_aula.txt",
+          "assuntos": "Análise Estatística: saiba o que é mais cobrado pelas principais bancas em concursos da Área Legislativa.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Prof_Bruno_Bezerra_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Prof_Bruno_Bezerra_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04_Prof_Bruno_Bezerra",
+          "caminho_relativo": "Câmara_dos_Deputados_Monitoria/Aula_04_Prof_Bruno_Bezerra",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Monitoria/Aula_04_Prof_Bruno_Bezerra/Assuntos_dessa_aula.txt",
+          "assuntos": "Ferramentas de Estudo: quais utilizar.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Prof_Bruno_Bezerra_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_04_Prof_Bruno_Bezerra_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "disciplina": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático",
+      "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático",
+      "total_aulas": 10,
+      "aulas": [
+        {
+          "aula": "Aula_00",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_00",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_00/Assuntos_dessa_aula.txt",
+          "assuntos": "Estruturas Lógicas I",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_00_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_00_Livro_Eletronico_versão_original.pdf",
+            "Aula_00_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_01",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_01/Assuntos_dessa_aula.txt",
+          "assuntos": "Estruturas Lógicas II",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_01_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_01_Livro_Eletronico_versão_original.pdf",
+            "Aula_01_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_02",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_02/Assuntos_dessa_aula.txt",
+          "assuntos": "Equivalências Lógicas e Negações",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_02_Livro_Eletronico_versão_original.pdf",
+            "Aula_02_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_03",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_03/Assuntos_dessa_aula.txt",
+          "assuntos": "Diagramas Lógicos",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_03_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_03_Livro_Eletronico_versão_original.pdf",
+            "Aula_03_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_04",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_04/Assuntos_dessa_aula.txt",
+          "assuntos": "Lógica de Primeira Ordem",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_04_Livro_Eletronico_versão_original.pdf",
+            "Aula_04_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_05",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_05",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_05/Assuntos_dessa_aula.txt",
+          "assuntos": "Lógica de Argumentação",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_05_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_05_Livro_Eletronico_versão_original.pdf",
+            "Aula_05_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_06",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_06",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_06/Assuntos_dessa_aula.txt",
+          "assuntos": "Argumentos: Estrutura Básica e Classificação",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_06_Livro_Eletronico_Baixar_Mapa_Mental.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Resumo.pdf",
+            "Aula_06_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_06_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_06_Livro_Eletronico_versão_original.pdf",
+            "Aula_06_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_07",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_07",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_07/Assuntos_dessa_aula.txt",
+          "assuntos": "Problemas de Lógica I",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_07_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_07_Livro_Eletronico_versão_original.pdf",
+            "Aula_07_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_08",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_08",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_08/Assuntos_dessa_aula.txt",
+          "assuntos": "Problemas de Lógica II",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_08_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_08_Livro_Eletronico_versão_original.pdf",
+            "Aula_08_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_09",
+          "caminho_relativo": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_09",
+          "arquivo_assuntos": "Câmara_dos_Deputados_Raciocínio_Lógico_Matemático/Aula_09/Assuntos_dessa_aula.txt",
+          "assuntos": "Raciocínio Sequencial",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_09_Livro_Eletronico_marcação_dos_aprovados.pdf",
+            "Aula_09_Livro_Eletronico_versão_original.pdf",
+            "Aula_09_Livro_Eletronico_versão_simplificada.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "disciplina": "Monitoria_Área_Legislativa",
+      "caminho_relativo": "Monitoria_Área_Legislativa",
+      "total_aulas": 5,
+      "aulas": [
+        {
+          "aula": "Aula_00_Prof_Fábio_Dias",
+          "caminho_relativo": "Monitoria_Área_Legislativa/Aula_00_Prof_Fábio_Dias",
+          "arquivo_assuntos": "Monitoria_Área_Legislativa/Aula_00_Prof_Fábio_Dias/Assuntos_dessa_aula.txt",
+          "assuntos": "Como elaborar um bom planejamento de pré-edital.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_00_Prof_Fábio_Dias_Livro_Eletronico_Baixar_Slides.pdf",
+            "Aula_00_Prof_Fábio_Dias_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_01_Prof_Fábio_Dias",
+          "caminho_relativo": "Monitoria_Área_Legislativa/Aula_01_Prof_Fábio_Dias",
+          "arquivo_assuntos": "Monitoria_Área_Legislativa/Aula_01_Prof_Fábio_Dias/Assuntos_dessa_aula.txt",
+          "assuntos": "Análise Estatística da Área Legislativa.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_01_Prof_Fábio_Dias_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_02_Prof_Fábio_Dias",
+          "caminho_relativo": "Monitoria_Área_Legislativa/Aula_02_Prof_Fábio_Dias",
+          "arquivo_assuntos": "Monitoria_Área_Legislativa/Aula_02_Prof_Fábio_Dias/Assuntos_dessa_aula.txt",
+          "assuntos": "As ferramentas mais utilizadas no ciclo de estudos.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_02_Prof_Fábio_Dias_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_03_Prof_Fábio_Dias",
+          "caminho_relativo": "Monitoria_Área_Legislativa/Aula_03_Prof_Fábio_Dias",
+          "arquivo_assuntos": "Monitoria_Área_Legislativa/Aula_03_Prof_Fábio_Dias/Assuntos_dessa_aula.txt",
+          "assuntos": "Como realizar boas revisões e quais os principais métodos existentes.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_03_Prof_Fábio_Dias_Livro_Eletronico_versão_original.pdf"
+          ]
+        },
+        {
+          "aula": "Aula_04_Prof_Fábio_Dias",
+          "caminho_relativo": "Monitoria_Área_Legislativa/Aula_04_Prof_Fábio_Dias",
+          "arquivo_assuntos": "Monitoria_Área_Legislativa/Aula_04_Prof_Fábio_Dias/Assuntos_dessa_aula.txt",
+          "assuntos": "Estratégias para acertar mais questões.",
+          "arquivos": [
+            "Assuntos_dessa_aula.txt",
+            "Aula_04_Prof_Fábio_Dias_Livro_Eletronico_versão_original.pdf"
+          ]
+        }
+      ]
+    }
+  ]
+}

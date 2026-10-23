@@ -1,0 +1,14 @@
+# Arquivos e pastas a ignorar no Git
+node_modules/
+dist/
+.DS_Store
+*.log
+.system_generated/
+.gemini/
+
+# IGNORAR OS 2GB DE PDFS LOCAIS NO REPOSITÓRIO (Usaremos o Google Drive no GitHub Pages)
+*.pdf
+Câmara_dos_Deputados_*
+Monitoria_*
+plano_tatico_texto.txt
+.download_state.json
